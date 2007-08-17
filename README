@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1996
+
+This small Python plugin is a translation of the Emacs 'bruce' utility (formerly known as 'spook'). It adds key words and phrases one might expect in a e-mail spying program to the end of the current buffer in the form of a signature, in order to confuse such programs. I didn't write it so much to make a statement as to relieve boredom for a few minutes, but the issue is important.
+
+Includes a terrible Swedish translation of the README.

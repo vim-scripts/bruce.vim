@@ -1,0 +1,18 @@
+Detta litet Python inskript är en översättning av Emacs:s 'bruce' verktyg (som
+tidigare kallades 'spook'). Det lägger ord och fraser som man kanske förutser
+i ett emailspionage program till slutet på bufferten i form av en signatur för
+att förvirra sådana program. Jag skrev inte detta inskript på politisk grund,
+egentligen för att göra något en stund, men ämnet är säkert viktigt.
+
+Att installera är ganska lätt. Kopiera bruce.vim till den globala eller lokala
+inskriptsmappen. Man behöver ju en datafil ~/.bruce.lines som består av
+speciella nyradseparerade ord och fraser. Utan denna fil kommer Python att
+resa ett fel. Jag inkluderade en bra exempel från Emacs med små ändringar.
+
+Att lägga en 'bruce' signatur till den aktuella bufferten tryck enkelt
+':Bruce' i normal-läget. Det är allt!
+
+--
+[Hello to all my friends and fans in domestic surveillance!]
+digicash red noise FBI Centro UOP Freeh Leuken-Baden Leitrim electronic
+surveillance Skipjack Uzbekistan Saudi Arabia Qaddafi Security Council virus
